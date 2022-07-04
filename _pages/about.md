@@ -12,7 +12,8 @@ redirect_from:
 * My primary research interest in Deep Learning and Computer Vision tasks. I did some computer vision related projects during my undergraduate and intern in [Bosch Corporate Research](https://www.bosch.com/). And, I will study the privacy protect technology during my master in SG. To be frank, I’m still finding the specific topic that I like and I will update as soon as I have my decision.
 * I received my Bachelor’s Degree from [Shanghai University, China](https://www.shu.edu.cn/) with a major in Intelligent Science and Technology (Department of Computer Science and Engineering). My undergraduate research advisor was Prof. [Xing Wu](https://scholar.google.com/citations?user=rRQ_BQIAAAAJ&hl=en).
 
-<img src="../images/life_img.JPG" style="zoom: 15%;" />
+
+<center><img src="../images/life_img.JPG" style="zoom: 15%;" /></center>
 
 # Recent News
 * 
