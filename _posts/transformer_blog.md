@@ -1,3 +1,13 @@
+---
+title: 'Transfromer learning note'
+date: 2022-07-04
+permalink: /posts/2022/07/transformer/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 #  Transformer
 
 video detail introdution:https://www.youtube.com/watch?v=cbYxHkgkSVs
