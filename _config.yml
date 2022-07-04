@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://shenjiyuan123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shenjiyuan123/shenjiyuan123.github.io"
-teaser                   : "selfie.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "SHEN Jiyuan"
-  avatar           : "selfie.png"
+  avatar           : "selfie.jpg"
   bio              : "MEng in Computer Science"
   location         : "Nanyang Technological University, SG"
   employer         :
