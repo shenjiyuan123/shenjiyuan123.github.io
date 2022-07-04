@@ -3,16 +3,18 @@ title: 'Transfromer learning note'
 date: 2022-07-04
 permalink: /posts/2022/07/transformer/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - learning note
+  - transfromer
+  - deep learning
 ---
+
+This is my own learning note for the vanilla transfromer
 
 #  Transformer
 
-video detail introdution:https://www.youtube.com/watch?v=cbYxHkgkSVs
+[Video detail introdution](https://www.youtube.com/watch?v=cbYxHkgkSVs)
 
-[local paper url](/Users/shenjiyuan/Desktop/大学课程内容/gait/related paper/Attention Is All You Need.pdf)
+[Paper url](https://arxiv.org/pdf/1706.03762.pdf)
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h3v1npzrydj20nq10cgoj.jpg" alt="image-20210329234607247" style="zoom:50%;" />
 
