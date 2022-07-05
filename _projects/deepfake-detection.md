@@ -1,11 +1,11 @@
 ---
-title: 'Graduate Thesis of Deepfake Detection'
-date: 2022-06-15
-permalink: /projects/2022-06-15-graduate-thesis-project
-
+title: "Teaching experience 1"
+collection: projects
+permalink: /projects/deepfake-detection
+date: 2022-06
 ---
 
-Deepfake detection research based on frequency analysis and graft attention.
+My undergraduate thesis project. It's about deepfake detection based on frequency analysis and graft attention.
 
 # Graduate Thesis of Deepfake Detection
 
