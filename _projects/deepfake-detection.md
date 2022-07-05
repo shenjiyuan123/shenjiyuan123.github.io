@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Deepfake detection research"
 collection: projects
 permalink: /projects/deepfake-detection
 date: 2022-06
