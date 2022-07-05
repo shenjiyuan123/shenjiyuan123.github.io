@@ -8,7 +8,7 @@ tags:
   - deep learning
 ---
 
-This is my own learning note for the vanilla transfromer
+Learning note for the vanilla transfromer.
 
 #  Transformer
 

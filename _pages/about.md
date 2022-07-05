@@ -16,4 +16,4 @@ redirect_from:
 <center><img src="../images/life_img.JPG" style="zoom: 15%;" /></center>
 
 # Recent News
-* 
+* July 5, 2022. I successfully graduated from Shanghai University and won the honorary title of outstanding graduates.
