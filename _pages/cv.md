@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download here: [Chinese](http://shenjiyuan123.github.io/files/resume_cn.pdf), [English](http://shenjiyuan123.github.io/files/resume_en.pdf).
+Full version can be downloaded here: [Chinese](http://shenjiyuan123.github.io/files/resume_cn.pdf), [English](http://shenjiyuan123.github.io/files/resume_en.pdf).
 
 Education
 ======
@@ -18,18 +18,21 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan-June 2022: Algorithm Intern 
+  * Corporate Research, Bosch
+  * Projects: Know your motion
+  * Supervisor: PhD. Dong Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July-Aug 2021: IT Intern
+  * SAIC General Motors Co., Ltd.
+  * Duties included: 
+    * Convert from SAS to Python
+    * Vehicle parts automatic inspection
+  * Supervisor: Lin Lin
   
 Skills
 ======
+Python, c++
 
 
 Publications
@@ -38,10 +41,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
-
-
-
-Service and leadership
+Projects
 ======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+Honors & Awards
+======
+* 2022 Shanghai University Outstanding Graduate
+* 2020 Shanghai University Academic Excellence Scholarship
 
