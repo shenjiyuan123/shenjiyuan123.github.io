@@ -2,6 +2,8 @@
 title: "An Efficient Training Strategy for Multi-Agent Reinforcement Learning in Card Games"
 collection: publications
 permalink: /publication/strategy
+date: 2022-03-01
+excerpt: 'This paper focuses on the improvement during training process and proposes a gradual promotion training strategy.'
 venue: International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC).
 citation: 'Jiyuan Shen. (2022). "An Efficient Training Strategy for Multi-Agent Reinforcement Learning in Card Games." In International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC).'
 ---

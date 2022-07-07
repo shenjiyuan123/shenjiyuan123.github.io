@@ -2,7 +2,7 @@
 title: "Deepfake detection research"
 collection: projects
 permalink: /projects/deepfake-detection
-date: 2022-06
+date: 2022-06-10
 ---
 
 My undergraduate thesis project. It's about deepfake detection based on frequency analysis and graft attention.
