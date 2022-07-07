@@ -20,7 +20,7 @@ Work experience
 ======
 * Jan-June 2022: Algorithm Intern 
   * Corporate Research, Bosch
-  * Projects: Know your motion
+  * Projects: [Know your motion](http://shenjiyuan123.github.io/posts/2022/06/AS_video/)
   * Supervisor: PhD. Dong Chen
 
 * July-Aug 2021: IT Intern
