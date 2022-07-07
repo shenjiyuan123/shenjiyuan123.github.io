@@ -1,5 +1,5 @@
 ---
-title: 'Transfromer learning note'
+title: 'Vanilla Transfromer Learning Note'
 date: 2022-07-04
 permalink: /posts/2022/07/transformer/
 tags:
@@ -7,6 +7,7 @@ tags:
   - transfromer
   - deep learning
 ---
+{% include base_path %}
 
 Learning note for the vanilla transfromer.
 
