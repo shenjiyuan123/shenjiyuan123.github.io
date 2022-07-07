@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# hello
 
 {% for post in site.projects reversed %}
   {% include archive-single.html %}
