@@ -13,6 +13,8 @@ Learning note for the vanilla transfromer.
 
 {% include toc %}
 
+---
+
 #  Transformer
 
 [Video detail introdution](https://www.youtube.com/watch?v=cbYxHkgkSVs)
