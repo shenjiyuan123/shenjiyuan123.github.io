@@ -3,9 +3,9 @@ title: 'Vanilla Transfromer Learning Note'
 date: 2022-07-04
 permalink: /posts/2022/07/transformer/
 tags:
-  - learning note
-  - transfromer
-  - deep learning
+  - Learning Note
+  - Transfromer
+  - Deep Learning
 ---
 {% include base_path %}
 
