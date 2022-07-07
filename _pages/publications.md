@@ -5,8 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Papers Published
+{% if author.googlescholar %} 
+You can also find my articles on my Google Scholar profile. 
+{% endif %}
 
-<b>[An Efficient Training Strategy for Multi-Agent Reinforcement Learning in Card Games](http://shenjiyuan123.github.io/files/An_Efficient_Training_Strategy.pdf)</b>
-<b>Jiyuan Shen</b>. <i>International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC), 2022.</i> 
+{% include base_path %}
+
+{% for post in site.publications reversed %} 
+    {% include archive-single.html %} 
+{% endfor %}
 
