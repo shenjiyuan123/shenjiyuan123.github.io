@@ -13,11 +13,11 @@ This is a collection of thoughts and advice on a wide range of topics, specifica
 
 
 
-### Competitions
-
-
 ## Music
 
+Jay Zhou's new album is awesome and I cannot bear that someone hasn't listened this yet. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1emA1EFsPMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Travel Map
 

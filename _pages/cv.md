@@ -14,7 +14,7 @@ Full version can be downloaded here: [Chinese](http://shenjiyuan123.github.io/fi
 Education
 ======
 * B.S. in China, Shanghai University, 2018-2022
-* M.S. in Singapore, Nanyang technological University
+* M.S. in Singapore, Nanyang technological University, 2022-
 
 Work experience
 ======
