@@ -14,7 +14,7 @@ Learning note for the Homomorphic Encryption.
 
 ---
 
-#  Definition
+##  Definition
 
 Homomorphic encryption aims at encrypting the tokens and when dealing with the ciphertext, the results stays the same as dealing with the tokens directly. So we say that it keeps homorphic.
 
@@ -28,7 +28,7 @@ Homomorphism comes from the field of algebra and generally includes four types: 
 
 For computer operations, achieving full homomorphism means that homomorphism can be achieved for all processing. Homomorphism that can only implement some specific operations is called Somewhat Homomorphic.
 
-# Challenge
+## Challenge
 
 The problem of homomorphic encryption was first proposed by Ron Rivest, Leonard Adleman and Michael L. Dertouzos in 1978 (the same year Ron Rivest, Adi Shamir and Leonard Adleman also co-invented the RSA algorithm). But the first "fully homomorphic" algorithm was not presented and mathematically proven until 2009 by Craig Gentry in his paper "Fully Homomorphic Encryption Using Ideal Lattices".
 
@@ -48,6 +48,6 @@ Currently, fully homomorphic encryption schemes mainly include the following thr
 
 At present, the known homomorphic encryption technology often requires higher computing time or storage cost, and there is still a gap between the performance and strength of traditional encryption algorithms, but the attention in this field has always been high. The author believes that in the near future, There will be solutions that are close to practical.
 
-# Reference
+## Reference
 
-https://yeasy.gitbook.io/blockchain_guide/05_crypto/homoencryption
+[https://yeasy.gitbook.io/blockchain_guide/05_crypto/homoencryption](https://yeasy.gitbook.io/blockchain_guide/05_crypto/homoencryption)
