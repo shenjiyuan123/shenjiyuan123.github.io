@@ -14,6 +14,9 @@ Learning note for the Homomorphic Encryption.
 
 ---
 
+# Homomorphic Encryption
+
+
 ##  Definition
 
 Homomorphic encryption aims at encrypting the tokens and when dealing with the ciphertext, the results stays the same as dealing with the tokens directly. So we say that it keeps homorphic.
