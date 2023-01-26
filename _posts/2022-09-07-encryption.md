@@ -12,7 +12,6 @@ Learning note for the Homomorphic Encryption.
 
 {% include toc %}
 
----
 
 # Homomorphic Encryption
 
