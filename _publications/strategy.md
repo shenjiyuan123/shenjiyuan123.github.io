@@ -5,7 +5,7 @@ permalink: /publication/strategy
 date: 2022-03-01
 excerpt: 'This paper focuses on the improvement during training process and proposes a gradual promotion training strategy.'
 venue: International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
-citation: 'Jiyuan Shen. (2022). "An Efficient Training Strategy for Multi-Agent Reinforcement Learning in Card Games." In International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC).'
+citation: 'Jiyuan Shen "An efficient training strategy for multi-agent reinforcement learning in card games", Proc. SPIE 12348, 2nd International Conference on Artificial Intelligence, Automation, and High-Performance Computing (AIAHPC 2022), 123482V (10 November 2022); https://doi.org/10.1117/12.2641866'
 ---
 
 ## Abstract
