@@ -8,12 +8,6 @@ tags:
 ---
 {% include base_path %}
 
-Learning note for the Homomorphic Encryption.
-
-
-
-# Homomorphic Encryption
-
 
 ##  Definition
 
