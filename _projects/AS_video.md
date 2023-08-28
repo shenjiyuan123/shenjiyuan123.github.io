@@ -1,14 +1,17 @@
 ---
-title: 'Action segmentation example video'
-date: 2022-06-30
+title: "Action segmentation example video"
+collection: projects
 permalink: /posts/2022/06/AS_video/
-tags:
-  - AS
-  - Deep Learning
+date: 2022-06-30
 ---
+
+This is the demo for what I do during the Bosch intern.
+
 {% include base_path %}
 
-AI assisted recognize what I do in an assembly task.
+---
+
+# AI assisted recognize what I do in an assembly task.
 
 Used method: 
 * ASFormer
