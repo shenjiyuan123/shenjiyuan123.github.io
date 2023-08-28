@@ -18,20 +18,3 @@ Based on the previous research on the use of frequency domain analysis in Deepfa
 Code is [here](https://github.com/shenjiyuan123/Graduate_thesis).
 
 
-## Algorithm based on frequency domain analysis and two-stream network
-
-![The first algorithm that based on frequency domain analysis and two-stream network](https://tva1.sinaimg.cn/large/e6c9d24egy1h3ye896mzxj21ik0t30z8.jpg)
-
-
-## Algorithm that based on multi-model graft attention network
-
-
-![The second algorithm that based on multi-model graft attention network](https://tva1.sinaimg.cn/large/e6c9d24egy1h3ye8cvyu4j21lw0u0gtn.jpg)
-
-## Abalation experiments
-
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h3ye8kuoghj21ei0kuq6c.jpg)
-
-## Visualize the feature map
-
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h3ye8o5sz0j21xw0u01kx.jpg)
