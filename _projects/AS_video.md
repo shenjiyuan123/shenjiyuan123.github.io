@@ -1,5 +1,5 @@
 ---
-title: "Action segmentation example video"
+title: "Action Segmentation Example Video"
 collection: projects
 permalink: /posts/2022/06/AS_video/
 date: 2022-06-30

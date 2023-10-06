@@ -23,7 +23,7 @@ Jay Zhou's new album is awesome and I cannot bear that someone hasn't listened t
 
 ## Travel Map
 
-This map gives an overview of the countries that I have visited (10 countries so far!):
+This map gives an overview of the countries that I have visited (13 countries so far!):
 
 <html>
   <link rel="stylesheet" href="/files/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
