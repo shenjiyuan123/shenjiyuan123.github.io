@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 ## About Me
 Hi there! I am SHEN Jiyuan (沈纪元). I am a second-year Master by research student at Nanyang Technological University with the SCRIPTS [scholarship](https://www.ntu.edu.sg/scripts/home). I am fortunate to be supervised by Prof. Aixin Sun, Prof. [LAM, Kwok Yan](https://personal.ntu.edu.sg/kwokyan.lam/). Before that, I obtained my B.Eng. degree with a major in Intelligent Science and Technology (Department of Computer Science and Engineering) from Shanghai University in 2022, under the supervison of Prof. [Xing Wu](https://scholar.google.com/citations?user=rRQ_BQIAAAAJ&hl=en). I have interned in [Bosch Corporate Research](https://www.bosch.com/), mentored by Dr. Dong Chen.
