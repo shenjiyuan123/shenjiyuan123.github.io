@@ -6,7 +6,7 @@ date: 2023-09-30
 excerpt: 'This paper propose a novel method to improve the dataset distillation algorithm and can generate a much better synthetic compact dataset.'
 ---
 
-<center><img src="../files/imtt.png" style="zoom: 80%;" /></center>
+<center><img src="../files/iMTT.png" style="zoom: 80%;" /></center>
 
 ## Abstract
 

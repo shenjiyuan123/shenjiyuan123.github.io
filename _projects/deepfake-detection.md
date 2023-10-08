@@ -35,5 +35,5 @@ The second algorithm that based on multi-model graft attention network.
 
 Code is [here](https://github.com/shenjiyuan123/Graduate_thesis).
 
-Full paper is [here](http://shenjiyuan123.github.io/files/Deepfake_Detection_Research.pdf.pdf).
+Full paper is [here](http://shenjiyuan123.github.io/files/Deepfake_Detection_Research.pdf).
 

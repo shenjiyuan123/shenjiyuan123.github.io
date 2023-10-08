@@ -35,7 +35,7 @@ Skills
 Python, c++
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -45,7 +45,21 @@ Projects
 ======
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+Publications
+======
+  <ul>{% assign sorted_publications = site.publications | sort: "date" | reverse %}
+    {% for post in sorted_publications %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
+
+Projects
+======
+  <ul>{% assign sorted_projects = site.projects | sort: "date" | reverse %}
+    {% for post in sorted_projects %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
 
 
 Honors & Awards
