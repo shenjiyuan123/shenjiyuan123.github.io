@@ -13,8 +13,8 @@ Full version can be downloaded here: [Chinese](http://shenjiyuan123.github.io/fi
 
 Education
 ======
-* B.S. in China, Shanghai University, 2018-2022
 * Research Master in Singapore, Nanyang technological University, 2022-
+* B.S. in China, Shanghai University, 2018-2022
 
 Work experience
 ======
@@ -67,3 +67,6 @@ Honors & Awards
 * 2022 Shanghai University Outstanding Graduate
 * 2020 Shanghai University Academic Excellence Scholarship
 
+Service
+======
+* Volunteer in DFRWS 2023 APAC
