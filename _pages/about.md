@@ -17,6 +17,7 @@ My primary research interest includes Dataset Distillation, Dataset Privacy, Fed
 
 
 ## Recent News
+* October 16, 2023. My first paper about learning dataset structure (Dataset Distillation) is uploaded to [arxiv](https://arxiv.org/abs/2310.10541).
 * September, 2023. I won the 15th prize in the [Baidu Disk AI Computition: Beauty, Freckles and Acne Removal](https://aistudio.baidu.com/competition/detail/1022/0/leaderboard).
 * August 11, 2023. I passed the qualification examination (QE).
 * November, 2022. I finished the courworks and get an average score of 4.17/5.0.

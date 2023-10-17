@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full version can be downloaded here: [Chinese](http://shenjiyuan123.github.io/files/resume_cn.pdf), [English](http://shenjiyuan123.github.io/files/resume_en.pdf).
+Full version can be downloaded here: [Resume](http://shenjiyuan123.github.io/files/CV.pdf).
 
 Education
 ======
