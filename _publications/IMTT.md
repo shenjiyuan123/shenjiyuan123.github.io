@@ -3,7 +3,7 @@ title: "Efficient Dataset Distillation through Alignment with Smooth and High-Qu
 collection: publications
 permalink: /publication/IMTT
 date: 2023-09-30
-excerpt: 'This paper propose a novel method to improve the dataset distillation algorithm and can generate a much better synthetic compact dataset.'
+excerpt: 'Jiyuan Shen, Wenzhuo Yang, Kwok-Yan Lam'
 ---
 
 <center><img src="../files/iMTT.png" style="zoom: 80%;" /></center>
