@@ -2,7 +2,8 @@
 title: "A Survey on Federated Unlearning: Challenges, Methods, and Future Directions"
 collection: publications
 permalink: /publication/FU_survey
-date: 2023-06-01
+date: 2023-10-31
+excerpt: 'Ziyao Liu, Yu Jiang, Jiyuan Shen, Minyi Peng, Kwok-Yan Lam, Xingliang Yuan'
 ---
 
 
