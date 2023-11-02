@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "SHEN Jiyuan"
   avatar           : "selfie.jpeg"
-  bio              : "MEng Student in Computer Science | NTU"
+  bio              : "M.Eng. Student in Computer Science | NTU"
   location         : "Nanyang Technological University, SG"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/shen-jiyuan"
+  linkedin         : "https://www.linkedin.com/in/shen-jiyuan" 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

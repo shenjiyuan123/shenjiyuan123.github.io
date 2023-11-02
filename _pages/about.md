@@ -16,6 +16,7 @@ Hi there! I am SHEN Jiyuan (沈纪元). I am a second-year Master by research st
 My primary research interest lies in exploring better representation by neural network, uncovering superior structures within learning datasets and investigating the privacy issues in neural network applications. It can be concluded to below directions: Data-efficient Learning, Dataset Distillation, Dataset Privacy, Federated Learning and Machine Unlearning (specifically in Federated Unlearning).
 
 ## Recent News
+* October 31, 2023. Our survey paper about the promising field "Federated Unlearning" is uploaded to [arxiv](https://arxiv.org/abs/2310.10541).
 * October 16, 2023. My first paper about learning dataset structure (Dataset Distillation) is uploaded to [arxiv](https://arxiv.org/abs/2310.10541).
 * September, 2023. I won the 15th prize in the [Baidu Disk AI Computition: Beauty, Freckles and Acne Removal](https://aistudio.baidu.com/competition/detail/1022/0/leaderboard).
 * August 11, 2023. I passed the qualification examination (QE).

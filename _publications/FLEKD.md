@@ -2,6 +2,7 @@
 title: "Effective Federated Learning Using Ensemble Knowledge Distillation for Intrusion Detection in Heterogeneous Internet-of-Things Networks"
 collection: publications
 permalink: /publication/FLEKD
+author: Jiyuan 
 date: 2023-06-01
 excerpt: 'This paper propose an effective method called Federated Learning Ensemble Knowledge Distillation (FLEKD) to mitigate the heterogeneity problems across various IoT devices for intrusion detection.'
 ---
