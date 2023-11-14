@@ -1,5 +1,5 @@
 ---
-title: "Efficient Dataset Distillation through Alignment with Smooth and High-Quality Expert Trajectories"
+title: "AST: Distilling Dataset through Alignment with Smooth and High-Quality Expert Trajectories"
 collection: publications
 permalink: /publication/IMTT
 date: 2023-09-30
@@ -14,3 +14,4 @@ Training a large and state-of-the-art machine learning model typically necessita
 
 
 [Download paper here](https://arxiv.org/abs/2310.10541)
+[Code](https://github.com/shenjiyuan123/AST-Alignment-with-Smooth-Expert)
