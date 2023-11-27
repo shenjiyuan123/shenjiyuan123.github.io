@@ -13,7 +13,7 @@ Full version can be downloaded here: [Resume](http://shenjiyuan123.github.io/fil
 
 Education
 ======
-* Research Master in Singapore, Nanyang technological University, 2022-
+* Research Master in Singapore, Nanyang technological University, 2022-2024 (expected)
 * B.S. in China, Shanghai University, 2018-2022
 
 Work experience
