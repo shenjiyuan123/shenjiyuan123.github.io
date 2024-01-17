@@ -3,7 +3,8 @@ title: "Effective Intrusion Detection in Heterogeneous Internet-of-Things Networ
 collection: publications
 permalink: /publication/FLEKD
 date: 2023-06-01
-excerpt: 'Jiyuan Shen, Wenzhuo Yang, Zhaowei Chu, Kwok-Yan Lam'
+excerpt: 'Jiyuan Shen, Wenzhuo Yang, Zhaowei Chu, Jiani Fan, Dusit Niyato, Kwok-Yan Lam'
+venue: IEEE International Conference on Communications
 ---
 
 <center><img src="../files/flekd.png" style="zoom: 80%;" /></center>
