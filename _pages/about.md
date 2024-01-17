@@ -21,8 +21,8 @@ My primary research interest lies in following directions:
 
 
 ## Recent News
-* January 17, 2023. 🎉 Our paper [Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning](https://shenjiyuan123.github.io/publication/FLEKD) is accepted by [ICC 2024](https://icc2024.ieee-icc.org) (oral).
-* January 16, 2023. Our paper "Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning" is uploaded to [arxiv](http://arxiv.org/abs/2401.08216).
+* January 17, 2024. 🎉 Our paper [Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning](https://shenjiyuan123.github.io/publication/FLEKD) is accepted by [ICC 2024](https://icc2024.ieee-icc.org) (oral).
+* January 16, 2024. Our paper "Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning" is uploaded to [arxiv](http://arxiv.org/abs/2401.08216).
 * October 31, 2023. Our survey paper about the promising field "Federated Unlearning" is uploaded to [arxiv](https://arxiv.org/abs/2310.10541).
 * October 16, 2023. My first paper about learning dataset structure (Dataset Distillation) is uploaded to [arxiv](https://arxiv.org/abs/2310.10541).
 * September, 2023. I won the 15th prize in the [Baidu Disk AI Computition: Beauty, Freckles and Acne Removal](https://aistudio.baidu.com/competition/detail/1022/0/leaderboard).
