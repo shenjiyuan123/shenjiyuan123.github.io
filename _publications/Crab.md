@@ -3,7 +3,7 @@ title: "Towards Efficient and Certified Recovery from Poisoning Attacks in Feder
 collection: publications
 permalink: /publication/Crab
 date: 2024-1-16
-excerpt: 'Yu Jiang*, Jiyuan Shen*, Ziyao Liu, Chee Wei Tan, Kwok-Yan Lam'
+excerpt: 'Jiyuan Shen, Yu Jiang, Ziyao Liu, Chee Wei Tan, Kwok-Yan Lam'
 ---
 
 
