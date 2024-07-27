@@ -2,7 +2,7 @@
 title: "Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning"
 collection: publications
 permalink: /publication/FLEKD
-date: 2023-06-01
+date: 2024-06-09
 excerpt: 'Jiyuan Shen, Wenzhuo Yang, Zhaowei Chu, Jiani Fan, Dusit Niyato, Kwok-Yan Lam'
 venue: IEEE International Conference on Communications
 ---
