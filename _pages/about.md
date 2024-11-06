@@ -21,6 +21,7 @@ My primary research interest lies in following directions:
 
 
 ## Recent News
+* November 6, 2024. 🎉 My master thesis "Data-efficient and privacy-enhanced knowledge discovery" has been successfully defended. Also, it is now officially recorded in the DR-NTU (Digital Repository of NTU). [[thesis]](https://dr.ntu.edu.sg/handle/10356/180955).
 * July 16, 2024. 🎉 Our survey paper [A Survey on Federated Unlearning: Challenges, Methods, and Future Directions](https://dl.acm.org/doi/10.1145/3679014) is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur) (Impact Factor: 23.8).
 * July 1, 2024. 💼 I started my career as a Data Scientist in SAP AI LAB Singapore. Glad to have a connection with you via [linkedin](https://www.linkedin.com/in/shen-jiyuan/)!
 * Apr 15 2024. 📃 Our paper "Privacy-Preserving Federated Unlearning with Certified Client Removal" is uploaded. [[arxiv]](https://arxiv.org/abs/2404.09724#)
