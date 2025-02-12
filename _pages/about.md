@@ -10,17 +10,18 @@ redirect_from:
 
 
 ## About Me
-Hi there! I am SHEN Jiyuan (沈纪元). I am a second-year Master by research student at Nanyang Technological University with the [SCRIPTS scholarship](https://www.ntu.edu.sg/scripts/home). I am fortunate to be supervised by Prof. [LAM, Kwok Yan](https://personal.ntu.edu.sg/kwokyan.lam/). Before that, I obtained my B.Eng. degree with a major in Intelligent Science and Technology (Department of Computer Science and Engineering) from Shanghai University in 2022, under the supervison of Prof. [Xing Wu](https://scholar.google.com/citations?user=rRQ_BQIAAAAJ&hl=en). I have interned in [Bosch Corporate Research](https://www.bosch.com/), mentored by Dr. Dong Chen.
+Hello! I am SHEN Jiyuan (沈纪元), a Data Scientist at SAP AI Lab. My work focuses on developing LLM benchmarking datasets and building automated evaluation pipelines for model performance assessment. Prior to joining SAP, I earned my Master of Engineering (M.Eng) degree at Nanyang Technological University with the [SCRIPTS scholarship](https://www.ntu.edu.sg/scripts/home). I am fortunate to be supervised by Prof. [LAM, Kwok Yan](https://personal.ntu.edu.sg/kwokyan.lam/). I obtained my B.Eng. degree with a major in Intelligent Science and Technology (Department of Computer Science and Engineering) from Shanghai University in 2022, under the supervison of Prof. [Xing Wu](https://scholar.google.com/citations?user=rRQ_BQIAAAAJ&hl=en). During my undergraduate studies, I had the opportunity to intern at [Bosch Corporate Research](https://www.bosch.com/), where I was mentored by Dr. Dong Chen.
 
 
 My primary research interest lies in following directions:
-
-1. Dataset Compression: Data-efficient Learning, Dataset Distillation, One-shot FL
-2. Federated Learning: Secure Aggregation, Fast Recovery from Poison Attacks, Model Inversion Attacks
-3. Computer Vision: Object Detection, Semantic Segmentation, Data Generation, Portrait Beautification
+1. **LLM-Related Technique Benchmarking**: Develop a holistic evaluation framework for large language models, encompassing multi-modal LLM assessment, application-level AI performance evaluation, prompt optimization algorithms, LLM routing mechanisms, and safety and security evaluation.
+2. **Dataset Compression**: Data-efficient Learning, Dataset Distillation, One-shot FL
+3. **Federated Learning**: Secure Aggregation, Fast Recovery from Poison Attacks, Model Inversion Attacks
+4. **Computer Vision**: Object Detection, Semantic Segmentation, Data Generation, Portrait Beautification
 
 
 ## Recent News
+* January 10, 2025. 🎉 My first author research paper [Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning](https://doi.org/10.1109/TIFS.2025.3533907) is accepted by IEEE Transactions on Information Forensics & Security.
 * November 6, 2024. 🎉 My master thesis "Data-efficient and privacy-enhanced knowledge discovery" has been successfully defended. Also, it is now officially recorded in the DR-NTU (Digital Repository of NTU). [[thesis]](https://dr.ntu.edu.sg/handle/10356/180955).
 * July 16, 2024. 🎉 Our survey paper [A Survey on Federated Unlearning: Challenges, Methods, and Future Directions](https://dl.acm.org/doi/10.1145/3679014) is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur) (Impact Factor: 23.8).
 * July 1, 2024. 💼 I started my career as a Data Scientist in SAP AI LAB Singapore. Glad to have a connection with you via [linkedin](https://www.linkedin.com/in/shen-jiyuan/)!
@@ -28,7 +29,7 @@ My primary research interest lies in following directions:
 * March 25, 2024. 👨‍💻 I made a presentation about the development and potential application of Dataset Distillation. [[slide]](https://docs.google.com/presentation/d/1rzKOw9eNgg4gqXfNcwnSKsAmhilHxxOg/edit?usp=sharing&ouid=105576136034076869833&rtpof=true&sd=true)
 * March 18, 2024. 🤔 I wrote a reflection about what I've mainly done over the past half year, including my struggles, choices, and rethinking throughout the job pursuit process. [[zhihu]](https://zhuanlan.zhihu.com/p/687816066)
 * January 30 - May 15, 2024. 💼 I began my second time internship as an IoT Research Intern at the Corporate Research Center of [Robert Bosch (SEA) Pte Ltd](https://www.bosch.com.sg). 
-* January 17, 2024. 🎉 Our paper [Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning](https://shenjiyuan123.github.io/publication/FLEKD) is accepted by [ICC 2024](https://icc2024.ieee-icc.org) (oral). [[slide]](http://shenjiyuan123.github.io/files/ICC24_FLEKD_compressed.pdf)
+* January 17, 2024. 🎉 My first author research paper [Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning](https://shenjiyuan123.github.io/publication/FLEKD) is accepted by [ICC 2024](https://icc2024.ieee-icc.org) (oral). [[slide]](http://shenjiyuan123.github.io/files/ICC24_FLEKD_compressed.pdf)
 * January 16, 2024. 📃 Our paper "Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning" is uploaded. [[arxiv]](http://arxiv.org/abs/2401.08216)
 * October 31, 2023. 📃 Our survey paper about the promising field "Federated Unlearning" is uploaded. [[arxiv]](https://arxiv.org/abs/2310.10541)
 * October 16, 2023. 📃 My first paper about learning dataset structure (Dataset Distillation) is uploaded. [[arxiv]](https://arxiv.org/abs/2310.10541)
