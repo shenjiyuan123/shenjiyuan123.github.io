@@ -21,7 +21,7 @@ My primary research interest lies in following directions:
 
 
 ## Recent News
-* January 10, 2025. 🎉 My first author research paper [Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning](https://doi.org/10.1109/TIFS.2025.3533907) is accepted by IEEE Transactions on Information Forensics & Security.
+* January 10, 2025. 🎉 My first author research paper [Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning](https://doi.org/10.1109/TIFS.2025.3533907) is accepted by IEEE Transactions on Information Forensics & Security. [[code]](https://github.com/shenjiyuan123/Adaptive_Recovery)
 * November 6, 2024. 🎉 My master thesis "Data-efficient and privacy-enhanced knowledge discovery" has been successfully defended. Also, it is now officially recorded in the DR-NTU (Digital Repository of NTU). [[thesis]](https://dr.ntu.edu.sg/handle/10356/180955).
 * July 16, 2024. 🎉 Our survey paper [A Survey on Federated Unlearning: Challenges, Methods, and Future Directions](https://dl.acm.org/doi/10.1145/3679014) is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur) (Impact Factor: 23.8).
 * July 1, 2024. 💼 I started my career as a Data Scientist in SAP AI LAB Singapore. Glad to have a connection with you via [linkedin](https://www.linkedin.com/in/shen-jiyuan/)!
