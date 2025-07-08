@@ -10,17 +10,20 @@ redirect_from:
 
 
 ## About Me
-Hello! I am SHEN Jiyuan (沈纪元), a Data Scientist at SAP AI Lab. My work focuses on developing LLM benchmarking datasets and building automated evaluation pipelines for model performance assessment. Prior to joining SAP, I earned my Master of Engineering (M.Eng) degree at Nanyang Technological University with the [SCRIPTS scholarship](https://www.ntu.edu.sg/scripts/home). I am fortunate to be supervised by Prof. [LAM, Kwok Yan](https://personal.ntu.edu.sg/kwokyan.lam/). I obtained my B.Eng. degree with a major in Intelligent Science and Technology (Department of Computer Science and Engineering) from Shanghai University in 2022, under the supervison of Prof. [Xing Wu](https://scholar.google.com/citations?user=rRQ_BQIAAAAJ&hl=en). During my undergraduate studies, I had the opportunity to intern at [Bosch Corporate Research](https://www.bosch.com/), where I was mentored by Dr. Dong Chen.
+Hello! I’m SHEN Jiyuan (沈纪元), a Data Scientist at SAP AI Lab. My work focuses on developing automated evaluation pipelines for model performance assessment and providing model and method discovery for performance optimization. Prior to joining SAP, I earned my Master of Engineering (M.Eng) degree at Nanyang Technological University with the [SCRIPTS scholarship](https://www.ntu.edu.sg/scripts/home). I am fortunate to be supervised by Prof. [LAM, Kwok Yan](https://personal.ntu.edu.sg/kwokyan.lam/) during my studies, where I primarily focused on privacy-preserving federated learning and data-efficient learning techniques.
+I obtained my B.Eng. degree with a major in Intelligent Science and Technology (Department of Computer Science and Engineering) from Shanghai University in 2022, under the supervison of Prof. [Xing Wu](https://scholar.google.com/citations?user=rRQ_BQIAAAAJ&hl=en). During my undergraduate studies, I had the opportunity to intern at [Bosch Corporate Research](https://www.bosch.com/), where I was mentored by Dr. Dong Chen and mainly conduct an individual research project on long-video action recognition.
 
 
 My primary research interest lies in following directions:
-1. **LLM-Related Technique Benchmarking**: Develop a holistic evaluation framework for large language models, encompassing multi-modal LLM assessment, application-level AI performance evaluation, prompt optimization algorithms, LLM routing mechanisms, and safety and security evaluation.
-2. **Dataset Compression**: Data-efficient Learning, Dataset Distillation, One-shot FL
-3. **Federated Learning**: Secure Aggregation, Fast Recovery from Poison Attacks, Model Inversion Attacks
-4. **Computer Vision**: Object Detection, Semantic Segmentation, Data Generation, Portrait Beautification
+1. **Agent Evaluation Service**: Design, build and maintain an end-to-end agent evaluation platform—spanning synthetic data pipelines (in collaboration), static/dynamic user proxies, metric specification and validation, automated error handling, and stability/consistency analysis.
+2. **LLM-Related Technique Benchmarking**: Develop a holistic evaluation framework for large language models, encompassing multi-modal LLM assessment, application-level AI performance evaluation, prompt optimization algorithms, and safety and security evaluation.
+3. **Dataset Compression**: Data-efficient Learning, Dataset Distillation, One-shot FL
+4. **Federated Learning**: Secure Aggregation, Fast Recovery from Poison Attacks, Model Inversion Attacks
+5. **Computer Vision**: Object Detection, Semantic Segmentation, Data Generation, Portrait Beautification
 
 
 ## Recent News
+* March 27, 2025. 🎉 Our paper [Privacy-Preserving Federated Unlearning with Certified Client Removal](https://ieeexplore.ieee.org/document/10945483) is accepted by IEEE Transactions on Information Forensics & Security.
 * January 10, 2025. 🎉 My first author research paper [Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning](https://doi.org/10.1109/TIFS.2025.3533907) is accepted by IEEE Transactions on Information Forensics & Security. [[code]](https://github.com/shenjiyuan123/Adaptive_Recovery)
 * November 6, 2024. 🎉 My master thesis "Data-efficient and privacy-enhanced knowledge discovery" has been successfully defended. Also, it is now officially recorded in the DR-NTU (Digital Repository of NTU). [[thesis]](https://dr.ntu.edu.sg/handle/10356/180955).
 * July 16, 2024. 🎉 Our survey paper [A Survey on Federated Unlearning: Challenges, Methods, and Future Directions](https://dl.acm.org/doi/10.1145/3679014) is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur) (Impact Factor: 23.8).

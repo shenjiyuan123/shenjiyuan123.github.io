@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/Crab
 date: 2024-1-16
 excerpt: 'Jiyuan Shen, Yu Jiang, Ziyao Liu, Chee Wei Tan, Kwok-Yan Lam'
+venue: IEEE Transactions on Information Forensics & Security
 ---
 
 
