@@ -1,0 +1,41 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = nil %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="proj-card">
+  {% if teaser %}
+  <div class="proj-card__thumbnail">
+    <a href="{{ base_path }}{{ post.url }}">
+      <img src=
+        {% if teaser contains "://" %}
+          "{{ teaser }}"
+        {% else %}
+          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="{{ title }}">
+    </a>
+  </div>
+  {% endif %}
+  <div class="proj-card__body {% unless teaser %}proj-card__body--full{% endunless %}">
+    <h3 class="proj-card__title">
+      <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
+    </h3>
+    {% if post.excerpt %}
+      <p class="proj-card__excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+    {% endif %}
+    <p class="proj-card__date"><i class="fas fa-calendar-alt"></i> {{ post.date | date: "%B %Y" }}</p>
+    <div class="proj-card__links">
+      <a href="{{ base_path }}{{ post.url }}" class="proj-card__btn"><i class="fas fa-info-circle"></i> Details</a>
+    </div>
+  </div>
+</div>

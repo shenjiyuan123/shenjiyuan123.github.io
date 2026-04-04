@@ -2,9 +2,14 @@
 title: "Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning"
 collection: publications
 permalink: /publication/Crab
-date: 2024-1-16
+date: 2025-01-10
 excerpt: 'Jiyuan Shen, Yu Jiang, Ziyao Liu, Chee Wei Tan, Kwok-Yan Lam'
 venue: IEEE Transactions on Information Forensics & Security
+paperurl: 'https://arxiv.org/abs/2401.08216'
+codeurl: 'https://github.com/shenjiyuan123/Adaptive_Recovery'
+selected: true
+header:
+  teaser: "pubs/crab.png"
 ---
 
 
@@ -13,7 +18,6 @@ venue: IEEE Transactions on Information Forensics & Security
 
 Federated learning (FL) is vulnerable to poisoning attacks, where malicious clients manipulate their updates to affect the global model.
 Although various methods exist for detecting those clients in FL, identifying malicious clients requires sufficient model updates, and hence by the time malicious clients are detected, FL models have been already poisoned. Thus, a method is needed to recover an accurate global model after malicious clients are identified. Current recovery methods rely on (i) all historical information from participating FL clients and (ii) the initial model unaffected by the malicious clients, leading to a high demand for storage and computational resources.
-% Therefore, efficiently and effectively recovering poisoned models remains a considerable challenge.
 
 <center><img src="../files/framework.png" style="zoom: 60%;" /></center>
 

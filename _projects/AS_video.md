@@ -3,17 +3,18 @@ title: "Action Segmentation Example Video"
 collection: projects
 permalink: /posts/2022/06/AS_video/
 date: 2022-06-30
+excerpt: "AI-assisted action recognition in assembly tasks using ASFormer, Mediapipe, and YOLOv5. Bosch internship project."
 ---
 
-This is the demo for what I do during the Bosch intern.
+This is a demo of what I did during my Bosch internship.
 
 {% include base_path %}
 
 ---
 
-# AI assisted recognize what I do in an assembly task.
+# AI-Assisted Action Recognition in Assembly Tasks
 
-Used method: 
+Methods used: 
 * ASFormer
 * Mediapipe
 * YOLOv5
@@ -21,7 +22,7 @@ Used method:
 Fusion method:
 * Based on geometric relation
 
-Example video: AI assisted recognize what I do in an assembly task
+Example video:
 
 <html>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y2H29Xa5pVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

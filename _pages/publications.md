@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 {% if author.googlescholar %} 
-You can also find my articles on my Google Scholar profile. 
+You can also find my articles on my [Google Scholar]({{ author.googlescholar }}) profile.
 {% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %} 
-    {% include archive-single.html %} 
+{% assign sorted_pubs = site.publications | sort: "date" | reverse %}
+{% for post in sorted_pubs %} 
+    {% include archive-single-pub.html %} 
 {% endfor %}
-

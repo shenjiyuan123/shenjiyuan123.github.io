@@ -1,0 +1,56 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = nil %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="pub-card">
+  {% if teaser %}
+  <div class="pub-card__thumbnail">
+    <a href="{{ base_path }}{{ post.url }}">
+      <img src=
+        {% if teaser contains "://" %}
+          "{{ teaser }}"
+        {% else %}
+          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="{{ title }}">
+    </a>
+  </div>
+  {% endif %}
+  <div class="pub-card__body {% unless teaser %}pub-card__body--full{% endunless %}">
+    <h3 class="pub-card__title">
+      <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
+    </h3>
+    {% if post.excerpt %}
+      {% assign authors_highlighted = post.excerpt | replace: "Jiyuan Shen", "<strong>Jiyuan Shen</strong>" %}
+      <p class="pub-card__authors">{{ authors_highlighted }}</p>
+    {% endif %}
+    {% if post.venue %}
+      <p class="pub-card__venue"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+    {% endif %}
+    <div class="pub-card__links">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" class="pub-card__btn"><i class="fas fa-file-pdf"></i> Paper</a>
+      {% endif %}
+      {% if post.codeurl %}
+        <a href="{{ post.codeurl }}" class="pub-card__btn"><i class="fab fa-github"></i> Code</a>
+      {% endif %}
+      {% if post.slideurl %}
+        <a href="{{ post.slideurl }}" class="pub-card__btn"><i class="fas fa-file-powerpoint"></i> Slides</a>
+      {% endif %}
+      {% if post.posterurl %}
+        <a href="{{ post.posterurl }}" class="pub-card__btn"><i class="fas fa-image"></i> Poster</a>
+      {% endif %}
+      <a href="{{ base_path }}{{ post.url }}" class="pub-card__btn"><i class="fas fa-info-circle"></i> Details</a>
+    </div>
+  </div>
+</div>

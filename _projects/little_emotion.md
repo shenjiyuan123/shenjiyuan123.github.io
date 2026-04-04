@@ -3,19 +3,22 @@ title: "Little Emotion App"
 collection: projects
 permalink: /projects/little_emotion
 date: 2021-08-28
+excerpt: "A mood-relieving WeChat mini program combining AI features. Won 2nd prize at the East China WeChat Development Competition."
 ---
 
-This is the demo for the WeiXin Development Competition.
+This is a demo from the WeChat Mini Program Development Competition.
 
 {% include toc %}
 
 ---
 
-# Little Emotion WeiXin App
+# Little Emotion WeChat App
 
-Responsibility: Investigated according to actual conditions, constructed project ideas, developed mood-relieving mini programs for practical problems, and combined artificial intelligence to enhance the fun of mini programs
+**Responsibility:** Investigated real-world needs, designed the project concept, developed a mood-relieving mini program, and integrated AI features to enhance interactivity.
 
-Won the 1st prize of the 4th National Youth Cup Art Design Competition and the 2nd prize of the East China Division of the WeChat Applet Application Development Competition of the China University Computer Competition
+**Awards:**
+* 1st Prize, 4th National Youth Cup Art Design Competition
+* 2nd Prize (East China Division), WeChat Mini Program Development Competition, China University Computer Competition
 
 
 Video is [here](https://youtu.be/_Lg85Zdr4nk).

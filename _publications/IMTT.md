@@ -4,6 +4,11 @@ collection: publications
 permalink: /publication/IMTT
 date: 2023-09-30
 excerpt: 'Jiyuan Shen, Wenzhuo Yang, Kwok-Yan Lam'
+venue: 'arXiv Preprint'
+paperurl: 'https://arxiv.org/abs/2310.10541'
+codeurl: 'https://github.com/shenjiyuan123/AST-Alignment-with-Smooth-Expert'
+header:
+  teaser: "pubs/imtt.png"
 ---
 
 <center><img src="../files/iMTT.png" style="zoom: 80%;" /></center>

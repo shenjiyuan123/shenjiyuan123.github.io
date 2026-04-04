@@ -5,7 +5,9 @@ permalink: /publication/strategy
 date: 2022-03-01
 excerpt: 'Jiyuan Shen'
 venue: International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
-
+paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12348/123482V/An-efficient-training-strategy-for-multi-agent-reinforcement-learning-in/10.1117/12.2641866.full?SSO=1'
+header:
+  teaser: "pubs/strategy.png"
 ---
 
 ## Abstract

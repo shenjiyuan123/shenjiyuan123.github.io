@@ -5,6 +5,10 @@ permalink: /publication/FU_survey
 date: 2024-07-16
 excerpt: 'Ziyao Liu, Yu Jiang, Jiyuan Shen, Minyi Peng, Kwok-Yan Lam, Xingliang Yuan'
 venue: ACM Computing Surveys
+paperurl: 'https://arxiv.org/abs/2310.20448'
+selected: true
+header:
+  teaser: "pubs/FU_survey.png"
 ---
 
 

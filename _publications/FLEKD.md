@@ -4,7 +4,12 @@ collection: publications
 permalink: /publication/FLEKD
 date: 2024-06-09
 excerpt: 'Jiyuan Shen, Wenzhuo Yang, Zhaowei Chu, Jiani Fan, Dusit Niyato, Kwok-Yan Lam'
-venue: IEEE International Conference on Communications
+venue: IEEE International Conference on Communications (ICC)
+paperurl: 'http://shenjiyuan123.github.io/files/FLEKD.pdf'
+slideurl: '/files/ICC24_FLEKD_compressed.pdf'
+codeurl: 'https://github.com/shenjiyuan123/AST-Alignment-with-Smooth-Expert'
+header:
+  teaser: "pubs/flekd.png"
 ---
 
 <center><img src="../files/flekd.png" style="zoom: 80%;" /></center>

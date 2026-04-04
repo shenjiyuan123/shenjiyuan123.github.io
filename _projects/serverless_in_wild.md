@@ -1,8 +1,9 @@
 ---
-title: "Reproducing-serverless-in-the-wild"
+title: "Reproducing Serverless in the Wild"
 collection: projects
 permalink: /projects/serverless_in_wild
 date: 2022-12-10
+excerpt: "Reproducing and extending the analysis of serverless workload characterization at a large cloud provider (Azure traces)."
 ---
 
 This is the project of Distributed System, which needs to reproduce the paper of "[Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.usenix.org/conference/atc20/presentation/shahrad)".
