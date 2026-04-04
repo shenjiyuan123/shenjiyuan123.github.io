@@ -8,6 +8,7 @@ venue: IEEE International Conference on Communications (ICC)
 paperurl: 'http://shenjiyuan123.github.io/files/FLEKD.pdf'
 slideurl: '/files/ICC24_FLEKD_compressed.pdf'
 codeurl: 'https://github.com/shenjiyuan123/AST-Alignment-with-Smooth-Expert'
+selected: True
 header:
   teaser: "pubs/flekd.png"
 ---
