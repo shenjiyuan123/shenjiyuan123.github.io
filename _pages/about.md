@@ -36,6 +36,7 @@ My primary research interests lie in the following directions:
 ---
 
 ## Recent News
+* September 21, 2026. 📃 Our paper about synthesizing high-quality and policy-based test cases, "EDGEGEN: Improving Tool-Calling Agents Beyond Happy Paths with Synthetic Edge Case Generation" is uploaded. <a href="https://arxiv.org/abs/2609.24115">[arxiv]</a>
 * January 26, 2026. 🎉 Our team's research paper [Talk, Evaluate, Diagnose: User-aware Agent Evaluation with Automated Error Analysis](https://openreview.net/forum?id=fHsVNklKOc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) has been accepted to the main track of International Conference on Learning Representations (ICLR 2026 Poster). The paper presents a holistic framework for agent evaluation, which can greatly help the design, benchmarking, and improvement of intelligent agents. We welcome the community to explore and use our toolkit. [[code]](https://github.com/SAP-samples/agent-quality-inspect)
 * January 7, 2026. 🎉 My first author research paper [OCR or Not? Rethinking Document Information Extraction in the MLLMs Era with Real-World Large-Scale Datasets](https://arxiv.org/abs/2603.02789) is accepted by EACL 2026 industry track. I will fly to Morocco to participate in the conference in March and present my paper.
 * July 27 to August 1st, 2025. ✈️ I participated in the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) in Vienna, Austria.
